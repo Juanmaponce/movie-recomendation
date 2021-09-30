@@ -1,0 +1,15 @@
+#result-container img {
+  width: 100%;
+}
+@media (min-width: 960) {
+  #result-container img {
+    height: 360px;
+  }
+  #result-container .col-md-3 .well {
+    height: 460px;
+  }
+
+  #result-container .col-md-3 img {
+    height: 240px;
+  }
+}
